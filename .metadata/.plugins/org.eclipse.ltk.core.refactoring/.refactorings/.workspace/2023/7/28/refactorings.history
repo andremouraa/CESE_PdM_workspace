@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Practica_4/Drivers/API/Inc/API_debounce&apos;" deleteContents="false" description="Delete resource &apos;Practica_4/Drivers/API/Inc/API_debounce&apos;" element1="/Practica_4/Drivers/API/Inc/API_debounce" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1689288227992"/>
+</session>
